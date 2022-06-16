@@ -1,0 +1,22 @@
+site_name: Crafting Eras · John71
+plugins: []
+
+theme:
+  name: readthedocs
+  titles_only: True
+
+nav:
+  - About: index.md
+  - Crafts:
+    - Refined Storage: mods/refinedstorage.md
+  - "Crafts » Refined Storage":
+    - Cable: crafts/refinedstorage/cable.md
+    - Controller: crafts/refinedstorage/controller.md
+    - Crafting Grid: crafts/refinedstorage/crafting_grid.md
+    - Disk Drive: crafts/refinedstorage/disk_drive.md
+    - Grid: crafts/refinedstorage/grid.md
+    - Machine Casing: crafts/refinedstorage/machine_casing.md
+    - Processors: crafts/refinedstorage/processors.md
+    - Quartz Enriched Iron: crafts/refinedstorage/quartz_enriched_iron.md
+    - Quartz Enriched Iron Block: crafts/refinedstorage/quartz_enriched_iron_block.md
+    - Raw Processors: crafts/refinedstorage/raw_processors.md

@@ -1,0 +1,95 @@
+Crafting Eras
+=============
+
+Crafting Eras is a modpack created by JohnProgammer71, using [Minecraft 1.12.2](https://mcversions.net/download/1.12.2) and [Forge 14.23.5.2847](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html).
+
+Mod List
+--------
+
+*[Mod List is Work In Progress]*
+
+- Actually Additions
+- Alternating Flux
+- Apple Skin
+- Astral Sorcery
+- Avaritia
+- Avaritia Addons
+- Avaritia IO
+- Avaritia's Complement
+- BASE
+- Baubles
+- Baubley Heart Canisters
+- Better Builders Wands
+- Better Questing
+- Better Questing: Standard Expansion
+- Blood Magic
+- Botania
+- Botania Tweaks
+- Brandon's Core
+- Ceramics
+- Chicken Chunks
+- Code Chicken Lib
+- COFH Core
+- COFH World
+- Construct Armory
+- Content Tweaker
+- Controlling
+- Craft Tweaker 2
+- Cucumber Library
+- Custom Main Menu
+- Draconic Additions
+- Draconic Evolution
+- Ender Core
+- Ender IO
+- Ender IO - Endergy
+- Ender Storage
+- Ender Tweaker
+- Equivalent Integrations
+- Ex Compressum
+- Ex Nihilo Creatio
+- Expanded Equivalence
+- Extended Crafting
+- Extra Utilities 2
+- Fast Leaves Decay
+- Flux Networks
+- Forgelin
+- FTB Lib
+- FTB Utilities
+- Furnace Overhaul
+- FVW
+- Guide-API
+- Hammer Lib
+- Immersive Cables
+- Immersive Engineering
+- Immersive Petroleum
+- Immersive Tech
+- Industrial Foregoing
+- Inventory Tweaks
+- InWorldCrafting
+- Iron BackPacks
+- Iron Chests
+- JEI
+- Journey Map
+- Mantle
+- Mekanism
+- Mekanism Generators
+- Mikes Mods Lib
+- Mob Grinding Utils
+- ModTweaker
+- Modular Diversity
+- Modular Machinery
+- Modular Magic
+- More Overlays
+- More Refined Storage
+- MTLib
+- Mystical Adaptations
+- Mystical Agradditions
+- Mystical Agriculture
+- Mystical Creations
+- Nevoka Core
+- Ore Excavation
+- Ore Excavation Integration
+- Placebo
+- Project E
+- Project Ex
+- ...
