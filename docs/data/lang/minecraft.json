@@ -1,4 +1,7 @@
 {
+	"diamond_block": "Diamond Block",
+	"emerald_block": "Emerald Block",
 	"glass": "Glass",
-	"redstone": "Redstone"
+	"redstone": "Redstone",
+	"stone": "Stone"
 }

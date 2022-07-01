@@ -8,31 +8,16 @@
 
 ![](../../img/recipes/refinedstorage/processor$3.png)
 
-Needed:  
-- 4· Black Iron Slate  
-- 2· Block of Black Iron  
-- [Raw Basic Processor](./raw_processors.md)  
-- Redstone  
-- Silicon
+<div data-recipe-id="refinedstorage:processors/3"></div>
 
 ### Improved Processor
 
-![](../../img/recipes/refinedstorage/processor$4.png)  
+![](../../img/recipes/refinedstorage/processor$4.png)
 
-Needed:  
-- 4· Black Iron Slate  
-- 2· Block of Black Iron  
-- [Raw Improved Processor](./raw_processors.md)  
-- Redstone  
-- Silicon
+<div data-recipe-id="refinedstorage:processors/4"></div>
 
 ### Advanced Processor
 
 ![](../../img/recipes/refinedstorage/processor$5.png)
 
-Needed:  
-- 4· Black Iron Slate  
-- 2· Block of Black Iron  
-- [Raw Advanced Processor](./raw_processors.md)  
-- Redstone  
-- Silicon
+<div data-recipe-id="refinedstorage:processors/5"></div>
