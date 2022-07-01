@@ -1,6 +1,6 @@
 # Raw Processors
 
-*Page for Raw Basic, Improved and Advanced Processors*
+*Page for Basic, Improved and Advanced **Raw** Processors*
 
 ## Crafting in Solderer
 
@@ -12,7 +12,7 @@ Multiblock: Solderer
 Needed:  
 - Iron Block  
 - Redstone Block  
-- Silicon
+- ![](../../img/items/refinedstorage/silicon.png) Silicon
 
 ### Raw Improved Processor
 
@@ -20,7 +20,7 @@ Needed:
 Needed:  
 - Gold Block  
 - Redstone Block  
-- Silicon
+- ![](../../img/items/refinedstorage/silicon.png) Silicon
 
 ### Raw Advanced Processor
 
@@ -28,4 +28,4 @@ Needed:
 Needed:  
 - Diamond Block  
 - Redstone Block  
-- Silicon
+- ![](../../img/items/refinedstorage/silicon.png) Silicon
