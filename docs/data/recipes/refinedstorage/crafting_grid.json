@@ -1,0 +1,47 @@
+{
+	"type": "extendedcrafting:ender",
+	"shaped": true,
+	"size": [3, 3],
+	"inputs": [
+		{
+			"item": "refinedstorage:silicon",
+			"pos": [0, 0]
+		},
+		{
+			"item": "refinedstorage:core$0",
+			"pos": [0, 1]
+		},
+		{
+			"item": "refinedstorage:silicon",
+			"pos": [0, 2]
+		},
+		{
+			"item": "tconstruct:station$0",
+			"pos": [1, 0]
+		},
+		{
+			"item": "refinedstorage:grid$0",
+			"pos": [1, 1]
+		},
+		{
+			"item": "tconstruct:station$0",
+			"pos": [1, 2]
+		},
+		{
+			"item": "refinedstorage:processor$5",
+			"pos": [2, 0]
+		},
+		{
+			"item": "refinedstorage:core$1",
+			"pos": [2, 1]
+		},
+		{
+			"item": "refinedstorage:processor$5",
+			"pos": [2, 2]
+		}
+	],
+	"outputs": [{
+		"item": "refinedstorage:grid$1",
+		"pos": [0, 0]
+	}]
+}

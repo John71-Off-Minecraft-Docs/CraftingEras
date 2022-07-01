@@ -1,0 +1,47 @@
+{
+	"type": "extendedcrafting:ender",
+	"shaped": true,
+	"size": [3, 3],
+	"inputs": [
+		{
+			"item": "extendedcrafting:black_iron_slate",
+			"pos": [0, 0]
+		},
+		{
+			"item": "refinedstorage:processor$0",
+			"pos": [0, 1]
+		},
+		{
+			"item": "extendedcrafting:black_iron_slate",
+			"pos": [0, 2]
+		},
+		{
+			"item": "extendedcrafting:black_iron_block",
+			"pos": [1, 0]
+		},
+		{
+			"item": "minecraft:redstone",
+			"pos": [1, 1]
+		},
+		{
+			"item": "extendedcrafting:black_iron_block",
+			"pos": [1, 2]
+		},
+		{
+			"item": "extendedcrafting:black_iron_slate",
+			"pos": [2, 0]
+		},
+		{
+			"item": "refinedstorage:silicon",
+			"pos": [2, 1]
+		},
+		{
+			"item": "extendedcrafting:black_iron_slate",
+			"pos": [2, 2]
+		}
+	],
+	"outputs": [{
+		"item": "refinedstorage:processor$3",
+		"pos": [0, 0]
+	}]
+}

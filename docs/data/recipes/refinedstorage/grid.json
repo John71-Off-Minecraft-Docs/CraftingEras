@@ -1,0 +1,112 @@
+{
+	"type": "extendedcrafting:table",
+	"shaped": true,
+	"size": [5, 5],
+	"tier": 2,
+	"inputs": [
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [0, 0]
+		},
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [0, 1]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [0, 2]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [0, 3]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [0, 4]
+		},
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [1, 0]
+		},
+		{
+			"item": "refinedstorage:processor$4",
+			"pos": [1, 1]
+		},
+		{
+			"item": "refinedstorage:core$0",
+			"pos": [1, 2]
+		},
+		{
+			"item": "refinedstorage:processor$5",
+			"pos": [1, 3]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [1, 4]
+		},
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [2, 0]
+		},
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [2, 1]
+		},
+		{
+			"item": "refinedstorage:machine_casing",
+			"pos": [2, 2]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [2, 3]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [2, 4]
+		},
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [3, 0]
+		},
+		{
+			"item": "refinedstorage:processor$4",
+			"pos": [3, 1]
+		},
+		{
+			"item": "refinedstorage:core$1",
+			"pos": [3, 2]
+		},
+		{
+			"item": "refinedstorage:processor$5",
+			"pos": [3, 3]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [3, 4]
+		},
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [4, 0]
+		},
+		{
+			"item": "refinedstorage:quartz_enriched_iron",
+			"pos": [4, 1]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [4, 2]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [4, 3]
+		},
+		{
+			"item": "minecraft:glass",
+			"pos": [4, 4]
+		}
+	],
+	"outputs": [{
+		"item": "refinedstorage:grid$0",
+		"pos": [0, 0]
+	}]
+}

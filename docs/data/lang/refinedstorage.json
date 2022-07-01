@@ -1,0 +1,15 @@
+{
+	"core$0": "Construction Core",
+	"core$1": "Destruction Core",
+	"grid$0": "Grid",
+	"grid$1": "Crafting Grid",
+	"machine_casing": "Machine Casing",
+	"processor$0": "Raw Basic Processor",
+	"processor$1": "Raw Improved Processor",
+	"processor$2": "Raw Advanced Processor",
+	"processor$3": "Basic Processor",
+	"processor$4": "Improved Processor",
+	"processor$5": "Advanced Processor",
+	"quartz_enriched_iron": "Quartz Enriched Iron",
+	"silicon": "Silicon"
+}

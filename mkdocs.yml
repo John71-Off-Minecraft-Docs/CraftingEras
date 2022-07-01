@@ -5,6 +5,11 @@ theme:
   name: readthedocs
   titles_only: True
 
+extra_javascript:
+  - js/jquery-3.6.js
+  - js/load_recipe_json.js
+  - js/crafting_ingredients_list.js
+
 nav:
   - About: index.md
   - Crafts:
