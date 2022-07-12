@@ -1,10 +1,12 @@
-# Quartz Enriched Iron
+Quartz Enriched Iron
+====================
 
 Main resource of [Refined Storage](../../mods/refinedstorage.md).
 
-## Crafting
+Crafting
+--------
 
-![](../../img/recipes/refinedstorage/quartz_enriched_iron·4.png)  
+![](../../img/recipes/refinedstorage/quartz_enriched_iron.png)  
 
 Needed:  
 - 4· Iron Ingot  
@@ -12,9 +14,19 @@ Needed:
 - 2· Iron Plate (Thermal Foundation)  
 - Gold Gear (Thermal Foundation)
 
-## From Storage
+Storage Block
+-------------
 
-![](../../img/recipes/refinedstorage/quartz_enriched_iron·9.png)  
+### Crafting a block
+
+![](../../img/recipes/refinedstorage/quartz_enriched_iron_block.png)  
 
 Needed:  
-- [![](../../img/items/refinedstorage/quartz_enriched_iron_block.png) Quartz Enriched Iron Block](./quartz_enriched_iron_block.md)
+- ![](../../img/items/refinedstorage/quartz_enriched_iron.png) Quartz Enriched Iron ·9
+
+### Crafting from a block
+
+![](../../img/recipes/refinedstorage/quartz_enriched_iron2.png)  
+
+Needed:  
+- ![](../../img/items/refinedstorage/quartz_enriched_iron_block.png) Quartz Enriched Iron Block

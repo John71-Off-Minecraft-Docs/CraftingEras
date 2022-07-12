@@ -1,11 +1,13 @@
-# Refined Storage
+Refined Storage
+===============
 
 Refined Storge is a ... Storage mod (thank you Captain Obvious).
 
-## Changes Made
+Changes Made
+------------
 
 - ![](../img/items/refinedstorage/quartz_enriched_iron.png) [Quartz Enriched Iron](../crafts/refinedstorage/quartz_enriched_iron.md)  
-- ![](../img/items/refinedstorage/quartz_enriched_iron_block.png) [Quartz Enriched Iron Block](../crafts/refinedstorage/quartz_enriched_iron_block.md)  
+- ![](../img/items/refinedstorage/quartz_enriched_iron_block.png) [Quartz Enriched Iron Block](../crafts/refinedstorage/quartz_enriched_iron.md)  
 - [Raw Basic Processor](../crafts/refinedstorage/raw_processors.md)  
 - [Raw Improved Processor](../crafts/refinedstorage/raw_processors.md)  
 - [Raw Advanced Processor](../crafts/refinedstorage/raw_processors.md)  
@@ -17,4 +19,4 @@ Refined Storge is a ... Storage mod (thank you Captain Obvious).
 - ![](../img/items/refinedstorage/controller.png) [Controller](../crafts/refinedstorage/controller.md)  
 - ![](../img/items/refinedstorage/disk_drive.png) [Disk Drive](../crafts/refinedstorage/disk_drive.md)  
 - ![](../img/items/refinedstorage/grid$0.png) [Grid](../crafts/refinedstorage/grid.md)  
-- ![](../img/items/refinedstorage/grid$1.png) [Crafting Grid](../crafts/refinedstorage/crafting_grid.md)  
+- ![](../img/items/refinedstorage/grid$1.png) [Crafting Grid](../crafts/refinedstorage/crafting_grid.md)

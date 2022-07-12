@@ -1,13 +1,24 @@
 'use strict';
 
+const repo = 'John71-Off-Minecraft-Docs/CraftingEras'
+const branch = 'main'
+
+/*
 const _load = async file => {
 	const f = await fetch(`../../../data/${file}`)
+	return await f.json()
+}
+*/
+
+const _load = async file => {
+	const f = await fetch(`https://raw.githubusercontent.com/${repo}/${branch}/docs/data/${file}`)
 	return await f.json()
 }
 
 const _load_lang_def = async regName => {
 	const [modId, name] = regName.split(':', 2)
-	let lang = await _load(`../../../data/lang/${modId}.json`)
+	// let lang = await _load(`../../../data/lang/${modId}.json`)
+	let lang = await _load(`lang/${modId}.json`)
 	if (!lang) lang = {}
 	localStorage.setItem(`docs.translation.${modId}`, JSON.stringify(lang))
 }

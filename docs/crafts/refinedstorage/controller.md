@@ -15,7 +15,7 @@ Needed:
 - 4· Advanced Tier Installer  
 - 4· Basic Tier Installer  
 - 4· Elite Bin  
-- [![](../../img/items/refinedstorage/quartz_enriched_iron_block.png) Quartz Enriched Iron Block](./quartz_enriched_iron_block.md) ·4  
+- [![](../../img/items/refinedstorage/quartz_enriched_iron_block.png) Quartz Enriched Iron Block](./quartz_enriched_iron.md) ·4  
 - 2· Industrial Machine Chassis  
 - 2· Double-Layer Capacitor  
 - 4· Elite Tier Installer  
