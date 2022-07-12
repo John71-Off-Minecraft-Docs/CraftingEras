@@ -38,7 +38,7 @@ const lang = {
 	}
 }
 const utils = {
-	imagePath: regName => `/img/items/${regName.replace(':', '/')}.png`,
+	imagePath: regName => `${base_url}/img/items/${regName.replace(':', '/')}.png`,
 	objToArr: obj => {
 		const result = []
 		Object.keys(obj).forEach(key => {
